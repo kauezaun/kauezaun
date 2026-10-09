@@ -26,5 +26,5 @@
 
 ### 📫 Contato
 
-- 💼 [LinkedIn](www.linkedin.com/in/kaue-henrique-guedes-63bb2a325)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kaue-henrique-guedes-63bb2a325)
 - ✉️ [E-mail](guedesk368@outlook.com)
