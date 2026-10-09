@@ -1,27 +1,30 @@
-# Olá! 👋 Eu sou o Kaue Henrique
+# Olá! 👋 Eu sou o Kaue Guedes
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas na FATEC-Sorocaba** e formado como Técnico em Informática para Internet.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas na FATEC Sorocaba** e formado como **Técnico em Informática para Internet**.
 
-💻 Tenho conhecimentos em programação, desenvolvimento web e banco de dados. Estou sempre buscando aprimorar minhas habilidades técnicas, aprender novas tecnologias e colocar meus conhecimentos em prática por meio de projetos.
+💻 Tenho conhecimentos em programação, Engenharia de Prompt voltado a IA, desenvolvimento web e bancos de dados, com interesse em desenvolvimento de software e na construção de soluções práticas.
 
-🚀 Meu objetivo é evoluir como desenvolvedor, adquirir experiência profissional e contribuir para projetos que gerem impacto positivo.
+🚀 Busco minha primeira oportunidade profissional na área de tecnologia, onde possa aplicar meus conhecimentos, adquirir experiência e continuar evoluindo como desenvolvedor.
+
+👨‍💻 Desbravando e descobrindo sobre o mundo tec!
 
 ---
 
 ### 🛠️ Tecnologias e ferramentas
 
-![Technologies](https://skillicons.dev/icons?i=python,java,js,c,html,css,mysql,git,github,linux)
+![Tecnologias](https://skillicons.dev/icons?i=python,java,js,c,html,css,mysql,git,github,linux)
 
 ---
 
 ### 📚 Atualmente
 
-- 🎯 Aprimorando minhas habilidades em programação.
-- 💡 Desenvolvendo projetos para aplicar meus conhecimentos.
-- 📖 Aprendendo continuamente sobre desenvolvimento de software.
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na FATEC Sorocaba.
+- 💻 Desenvolvendo o StudyMate, app voltado para organização acadêmica, auxiliando estudantes.
+- 📖 Aprofundando meus estudos em desenvolvimento de software e bancos de dados.
 
 ---
 
 ### 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/kaue-henrique-guedes-63bb2a325)
+- ✉️ [E-mail](guedesk368@outlook.com)
