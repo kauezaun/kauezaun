@@ -17,13 +17,13 @@ Estudante de **Análise e Desenvolvimento de Sistemas na FATEC Sorocaba** e form
 
 ### 📚 Atualmente
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas na FATEC Sorocaba.
-- 💻 Desenvolvendo o StudyMate, app voltado para organização acadêmica, auxiliando estudantes.
-- 📖 Aprofundando meus estudos em desenvolvimento de software e bancos de dados.
+-  Cursando Análise e Desenvolvimento de Sistemas na FATEC Sorocaba.
+-  Desenvolvendo o StudyMate, app voltado para organização acadêmica, auxiliando estudantes.
+-  Aprofundando meus estudos em desenvolvimento de software e bancos de dados.
 
 ---
 
 ### 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kaue-henrique-guedes-63bb2a325)
-- ✉️ [E-mail](guedesk368@outlook.com)
+-  [LinkedIn](https://www.linkedin.com/in/kaue-henrique-guedes-63bb2a325)
+-  [E-mail](guedesk368@outlook.com)
