@@ -25,5 +25,5 @@ Estudante de **Análise e Desenvolvimento de Sistemas na FATEC Sorocaba** e form
 
 ### 📫 Contato
 
--  [Contato do LinkedIn](https://www.linkedin.com/in/kaue-henrique-guedes-63bb2a325)
+-  [Contato do LinkedIn:] (https://www.linkedin.com/in/kaue-henrique-guedes-63bb2a325)
 -  [E-mail:] guedesk368@outlook.com
